@@ -1,3 +1,6 @@
+just learning from https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
+if there is anythings wrong, please tell me ^^
+
 to make dataset:
 use xml2txt_textntrain.py to make dataset 
 
